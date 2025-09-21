@@ -1,3 +1,2 @@
-# chichitap
-chichitap(Unity Version) source code
+# chichitap source code(Unity Version)
 ![Banner](banner.png)
